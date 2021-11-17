@@ -24,3 +24,5 @@ This is where I will be tracking my weekly Goals at the Makers Academy Coding bo
 - I write code that is easy to change
 - I can justify the way I work
 - I grow collaboratively
+
+[Week 1](Week_1.md)
