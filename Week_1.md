@@ -9,6 +9,29 @@
 
 ## Self-Review
 
+- Test-drive a simple program using objects and methods
+
+Evidence?
+
+Assesment?
+
+- Pair using the driver-navigator style
+
+Evidence?
+
+Assesment?
+
+- Follow an effective debugging process
+
+Evidence?
+
+Assesment?
+
+- Describe some basic OO principles like encapsulation, SRP
+
+Evidence?
+
+Assesment?
 
 ## Daily Goals
 
@@ -38,9 +61,19 @@ This should help with the Boris Bikes Challenge we are currently working on this
 
 Ties in nicely with the weekly goal of follow an effective debugging process.
 
+- Speak to the coach on our Boris Bike Challenge 12
+
+Our code has drifted from the walkthrough suggested solution. 
+
+Interesting to see if our code is right but different or our code is inefficient.
+
+- Read about the differences between attr reader, attr writer, attr accessor
+
+To be able to explain the differences to a peer.
+
 - Progress through the Boris Bike Challenge. 
 
-Aim is to progress through a few more challenges. 
+Aim is to progress through 3 more challenges. 
 
 We are with a new partner today so it will be a good experience seeing how others approach the challenges.
 
