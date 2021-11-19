@@ -39,19 +39,21 @@ Assesment?
 
 - Start Tracking my Goals in Github. :white_check_mark:
 
-Completed. Going to make this a daily task.
+Feedback: Completed. Going to make this a daily task.
 
 - Debug Challenge 10 on the Boris Bikes task. :white_check_mark:
 
 This can be achieved by writing better unit tests. At the moment I think this is where we are running into issues.
 
+Feedback: Managed to complete the challenge through debugging line by line.
+
 - Attend the optional workshop on classes. :white_check_mark:
 
-Great workshop where I learnt more about using attr reader and instance variables.
+Feedback: Great workshop where I learnt more about using attr reader and instance variables.
 
 - Get to Challenge 13 on the Boris Bikes task. :white_check_mark: (sort of)
 
-Managed to get to the end of challenge 12. Taking things a bit slower to try and fully understand each step.
+Feedback: Managed to get to the end of challenge 12. Taking things a bit slower to try and fully understand each step.
 
 ### Thursday 18th November
 
@@ -61,15 +63,21 @@ This should help with the Boris Bikes Challenge we are currently working on this
 
 Ties in nicely with the weekly goal of follow an effective debugging process.
 
-- Speak to the coach on our Boris Bike Challenge 12
-
-Our code has drifted from the walkthrough suggested solution. 
-
-Interesting to see if our code is right but different or our code is inefficient.
+Feedback: Learnt to read the errors more thoroughly. The issue here was with the Gem file rather than the face of the code.
 
 - Read about the differences between attr reader, attr writer, attr accessor
 
 To be able to explain the differences to a peer.
+
+Feedback: Say you have a instance variable in a class that you want to be able to access outside of this class. 
+
+You can do this through accessors. 
+
+It is a shorcut to having to define each one. 
+
+You can use attr_reader, attr_writer and attr_accesor (both read and write).
+
+And include them in your initialize def.
 
 - Progress through the Boris Bike Challenge. 
 
@@ -77,6 +85,17 @@ Aim is to progress through 3 more challenges.
 
 We are with a new partner today so it will be a good experience seeing how others approach the challenges.
 
-- Attend Yoga.
+Feedback: Figured out how to collaborate with someone new on Github. We made a new repo and then we aligned our code to be able to then start working together.
 
-Important to not neglect exercise and meditation. 
+Managed to get through 2 challenges. They are getting tougher each time but progress is being made.
+
+
+### Friday 19th November
+
+- Attend Retro Workshop
+
+- Get through 4 Boris Bike Challenges
+
+Stretch target given the increasing level of difficulty
+
+- Be able to explain encapsulation and SRP
