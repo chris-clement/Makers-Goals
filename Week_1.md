@@ -57,7 +57,7 @@ Feedback: Managed to get to the end of challenge 12. Taking things a bit slower 
 
 ### Thursday 18th November
 
-- Attend the 'Intro to Debugging' workshop. 
+- Attend the 'Intro to Debugging' workshop. :white_check_mark:
 
 This should help with the Boris Bikes Challenge we are currently working on this week with our pair.
 
@@ -65,7 +65,7 @@ Ties in nicely with the weekly goal of follow an effective debugging process.
 
 Feedback: Learnt to read the errors more thoroughly. The issue here was with the Gem file rather than the face of the code.
 
-- Read about the differences between attr reader, attr writer, attr accessor
+- Read about the differences between attr reader, attr writer, attr accessor. :white_check_mark:
 
 To be able to explain the differences to a peer.
 
@@ -79,7 +79,7 @@ You can use attr_reader, attr_writer and attr_accesor (both read and write).
 
 And include them in your initialize def.
 
-- Progress through the Boris Bike Challenge. 
+- Progress through the Boris Bike Challenge. :white_check_mark:
 
 Aim is to progress through 3 more challenges. 
 
