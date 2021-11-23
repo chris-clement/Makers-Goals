@@ -26,3 +26,5 @@ This is where I will be tracking my weekly Goals at the Makers Academy Coding bo
 - I grow collaboratively
 
 [Week 1](Week_1.md)
+
+[Week 2](Week_2.md)
