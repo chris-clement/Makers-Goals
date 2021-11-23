@@ -46,8 +46,24 @@ Assesment?
 
 - Attend Mini-Workshop on code review :white_check_mark:
 
-- Review our weekend challenge 'Airport Challenge'
+Learnt how to give feedback on a repo in Github.
 
-- Pairing on the new challenge
+- Review our weekend challenge 'Airport Challenge' :white_check_mark:
 
-- Read up on the use of 'doubles'
+Reviewed our pair partners weekend challenge. Responded to feedback on our own work to help improve our code.
+
+- Pairing on the new challenge :white_check_mark:
+
+Started the Oystercard challenge. Learnt how to create a Gemfile and completed 8 challenges.
+
+- Read up on the use of 'doubles' :white_check_mark:
+
+Within this is the allow statement which lets you set the return value of a method. This is useful for boolean methods or methods with random.
+
+### Tuesday 23rd November 
+
+- Attend Domain Model Programming workshop
+
+- Progress through the Oystercard challenge
+
+- Read more about the use of doubles outside of 'allow'
