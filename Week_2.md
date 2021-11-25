@@ -74,3 +74,25 @@ This allows you to really identify where the issues are. Relates to encapsulatio
 
 ### Wednesday 24th November 
 
+- Attend EQ Workshop :white_check_mark:
+
+Useful exercise in how to give and receive feedback.
+
+- Fintech Talk from Nomo Bank :white_check_mark:
+
+Interesting talk about how Nomo made a digital bank in just 6 months.
+
+- Process Workshop :white_check_mark:
+
+This was a workshop about working in pairs and someone reviewing your process to tackle a problem.
+
+- Progress on Oystercard challenge :white_check_mark:
+
+Went through just challenge 11.
+
+### Thursday 25th November 
+
+- Progress through the Oystercard challenge
+
+- Read up more about the use of doubles
+
