@@ -92,7 +92,21 @@ Went through just challenge 11.
 
 ### Thursday 25th November 
 
-- Progress through the Oystercard challenge
+- Progress through the Oystercard challenge :white_check_mark:
 
-- Read up more about the use of doubles
+Completed 2 challenges.
+
+- Read up more about the use of doubles :white_check_mark:
+
+Watched a few useful videos on this
+
+https://drive.google.com/file/d/1i-owj_snB69SG8T7u2PEqx13jaPMeKZk/view
+
+https://drive.google.com/file/d/1jo-sUDbndIf8-muoSw4PUFqHccvKOJBr/view?usp=sharing
+
+### Friday 26th November 
+
+- Get through 2 more Oystercard challenges
+
+- Read through the weekend challenge
 
