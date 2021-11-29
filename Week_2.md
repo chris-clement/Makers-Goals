@@ -12,23 +12,23 @@
 
 - Use all of week 1's skills (don't underestimate the importance of this) :white_check_mark:
 
-- Break one class into two classes that work together, while maintaining test coverage]
+- Break one class into two classes that work together, while maintaining test coverage] :white_check_mark:
 
-Evidence?
+Evidence? In the Oystercard challenge I succesfully split out the project into multiple classes.
 
-Assesment?
+Assesment? This is an area I need to focus more on. It is much more straight forward to seperate classes from the beginning but refactoring later is tricky.
 
-- Unit test classes in isolation using mocking
+- Unit test classes in isolation using mocking :white_check_mark:
 
-Evidence?
+Evidence? Use of let and allow was used in both the Oystercard and Takeaway challenge extensively.
 
-Assesment?
+Assesment? I understand the need and benefit of testing only one class at a time. Your unit tests should be specific and test for only one true aspect at a time. Mocking allows us to do this.
 
-- Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
+- Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) :x:
 
-Evidence?
+Evidence? Did not cover this aspect.
 
-Assesment?
+Assesment? Need to read up on ease of change.
 
 - Review another person's code and give them meaningful feedback :white_check_mark:
 
@@ -106,7 +106,11 @@ https://drive.google.com/file/d/1jo-sUDbndIf8-muoSw4PUFqHccvKOJBr/view?usp=shari
 
 ### Friday 26th November 
 
-- Get through 2 more Oystercard challenges
+- Get through 2 more Oystercard challenges :white_check_mark:
 
-- Read through the weekend challenge
+Worked with a new pair partner and managed to progress through.
+
+- Read through the weekend challenge :white_check_mark:
+
+Made a start on the takeaway challenge.
 
