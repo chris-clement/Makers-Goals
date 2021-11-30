@@ -35,10 +35,20 @@ Assesment?
 
 ## Daily Goals
 
-### Monday 29th December
+### Monday 29th November
 
-- Review our pair partners weekend challenge
+- Review our pair partners weekend challenge :white_check_mark:
 
-- Start the new weekly challenge: Intro to the web
+- Start the new weekly challenge: Intro to the web :white_check_mark:
+
+Change of topic this week. Looking at building web apps using HTML.
+
+### Tuesday 30th November
+
+- Attend HTTP Process Modelling workshop
+
+- Progress with intro to the web. 
 
 - Read up on ease of change principle
+
+- Attend meditation
