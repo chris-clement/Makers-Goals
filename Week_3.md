@@ -45,10 +45,27 @@ Change of topic this week. Looking at building web apps using HTML.
 
 ### Tuesday 30th November
 
-- Attend HTTP Process Modelling workshop
+- Attend HTTP Process Modelling workshop :white_check_mark:
 
-- Progress with intro to the web. 
+Useful exercise on how to map out request and response intereactions between a client and server.
 
-- Read up on ease of change principle
+- Progress with intro to the web. :white_check_mark:
 
-- Attend meditation
+Made a lot of progress getting through 9 challenges. Need to revisit what we went through to cement my understanding of concepts.
+
+- Read up on ease of change principle :white_check_mark:
+
+It is the concepts of how easy is it to update your code. It should be flexible.
+
+If you want to update a top up limit on your oystercard you should really only have to update this once. You dont want to be looking at all places where it is used. 
+
+- Attend meditation :white_check_mark:
+
+### Wednesday 1st December
+
+- Progress through the Battle challenge
+
+- Revisit what we covered yesterday in the challenge
+
+- Attend EQ workshop
+
