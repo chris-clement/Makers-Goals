@@ -63,9 +63,41 @@ If you want to update a top up limit on your oystercard you should really only h
 
 ### Wednesday 1st December
 
-- Progress through the Battle challenge
+- Progress through the Battle challenge :white_check_mark:
 
-- Revisit what we covered yesterday in the challenge
+Website now has ability to enter player names, you see their health points and can perform a single attack.
 
-- Attend EQ workshop
+- Revisit what we covered yesterday in the challenge :white_check_mark:
+
+This helped me to understand what was previously covered.
+
+- Attend EQ workshop :white_check_mark:
+
+Useful talk on empathy.
+
+### Thursday 2nd December
+
+- Read up on the MVC pattern :white_check_mark:
+
+Model: The files which contain the ruby logic. ruby files.
+
+View: The user interface, what the web page shows. html
+
+Controller: The app.rb file which controls how the web app ties together.
+
+- Attend workshop on debugging web apps :white_check_mark:
+
+Helped me to establish a better debugging process and navigating through the different models, views and controller files.
+
+- Progress through Battle challenge :white_check_mark:
+
+Revisited previous challenges with my pair partner.
+
+### Friday 3rd December
+
+- Progress through the intro to the web
+
+- Attend the retro
+
+- Make a start on the weekend challenge 
 
