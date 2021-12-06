@@ -11,27 +11,27 @@
 
 - Build a simple web app
 
-Evidence?
+Evidence? This is most evident by the Rock, Paper, Scissors weekend challenge.
 
-Assesment?
+Assesment? I have achieved this. I can make a simple web app that is functional. I can improve on this by learning CSS and adding this to my html pages.
 
 - Follow an effective debugging process for web applications
 
-Evidence?
+Evidence? Attended a workshop on this exact goal. I can now follow this when debugging a web application I have built.
 
-Assesment?
+Assesment? I now have a logical flow to debugging a web app. Identifying if the issue lies with the Model, View or controller aspect of the web app.
 
 - Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 
-Evidence?
+Evidence? I have a basic level of understanding on these topics. 
 
-Assesment?
+Assesment? Need to strengthen my understanding of these topics so I feel comfortable explaining it to a peer. 
 
 - Explain the MVC pattern
 
-Evidence?
+Evidence? I implemented this in my weekend challenge. Seperating out Model, View and Controller into their respective parts.
 
-Assesment?
+Assesment? I understand this concept and how it applies to web applications.
 
 ## Daily Goals
 
@@ -95,9 +95,9 @@ Revisited previous challenges with my pair partner.
 
 ### Friday 3rd December
 
-- Progress through the intro to the web
+- Progress through the intro to the web :white_check_mark:
 
-- Attend the retro
+- Attend the retro :white_check_mark:
 
-- Make a start on the weekend challenge 
+- Make a start on the weekend challenge :white_check_mark:
 
