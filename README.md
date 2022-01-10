@@ -36,3 +36,5 @@ This is where I will be tracking my weekly Goals at the Makers Academy Coding bo
 [Week 5](Week_5.md)
 
 [Week 6](Week_6.md)
+
+[Week 7](Week_7.md)
